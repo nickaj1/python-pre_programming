@@ -1,4 +1,4 @@
-# Print list of e
+# Print list of elements 
 animals = ['elephant', 'dolphins', 'chimpanzees', 'bats']
 for animal in animals:
     print('A ' + animal + ' would make a great pet \n')
