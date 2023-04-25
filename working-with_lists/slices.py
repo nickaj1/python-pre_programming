@@ -1,4 +1,4 @@
-# Print first three item in list
+# Printing first three item in list
 settings = ['airplane mode', 'wifi', 'privacy','focus', 'notification', 'general', 'wallpaper']
 print(settings[:3])
 print('The first three items in the list are\n')
