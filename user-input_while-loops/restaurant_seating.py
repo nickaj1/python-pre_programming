@@ -1,4 +1,4 @@
-# Taking
+# Taking user input int() 
 user = input('How many people are in your Dinner group? ')
 user = int(user)
 if user > 8:
