@@ -1,4 +1,4 @@
-# 
+# Creating a Dictionary within a Dictionary 
 cities = {
    'Accra' : {
     'Fact': 'cultural attractions, shopping centers, and entertainment venues',
